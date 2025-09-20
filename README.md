@@ -1,4 +1,11 @@
-## Hi there 👋
+```txt
+┌──────┐      ┌──────┐
+│      │      │      │
+│ idea ├─────►│ code │
+│      │      │      │
+└──────┘      └──────┘
+```
+
 
 <!--
 **freespirit/freespirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
